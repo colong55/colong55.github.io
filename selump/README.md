@@ -10,13 +10,13 @@ Selump 提供了兩種便捷的方式來觸發跳轉：
 
 當您在應用程式或網頁中選取文字時，Selump 會在工具列中提供跳轉選項。
 
-![使用文字選取工具列跳轉]([gif])
+![使用文字選取工具列跳轉](https://github.com/colong55/colong55.github.io/blob/main/selump/%E4%BD%BF%E7%94%A8%E5%8A%9F%E8%83%BD%E5%88%97%E8%B7%B3%E8%BD%89.gif)
 
 ### 使用分享功能跳轉
 
 您也可以透過 Android 系統的分享功能，將選取的文字分享給 Selump 進行解析和跳轉。
 
-![使用分享功能跳轉]([gif])
+![使用分享功能跳轉](https://github.com/colong55/colong55.github.io/blob/main/selump/%E4%BD%BF%E7%94%A8%E5%88%86%E4%BA%AB%E8%B7%B3%E8%BD%89.gif)
 
 ## 各項設定解釋
 
