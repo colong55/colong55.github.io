@@ -14,7 +14,7 @@ Selump 提供了兩種便捷的方式來觸發跳轉：
 
 ### 使用分享功能跳轉
 
-您也可以透過 Android 系統的分享功能，將選取的文字分享給 Selump 進行解析和跳轉。
+您也可以透過 Android 系統的分享功能，將選取的文字分享給 Selump 進行解析和跳轉，詳細可參考進階規則的預設腳本。
 
 ![使用分享功能跳轉](https://github.com/colong55/colong55.github.io/blob/main/selump/%E4%BD%BF%E7%94%A8%E5%88%86%E4%BA%AB%E8%B7%B3%E8%BD%89.gif)
 
